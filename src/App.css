@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+}
+
+.center{
+    max-width: 960px;
+    margin:0 auto; 
+    padding: 0 2%;
+    display: flex;
+    
+}
+
+.main{
+    padding:10px;
+    font-family: sans-serif;
+    background-color:rgb(240, 239, 239);
+    /* background-image:url('https://static.vecteezy.com/ti/vetor-gratis/p1/300337-projeto-de-plano-de-fundo-do-tema-de-engenharia-com-engrenagens-gr%C3%A1tis-vetor.jpg');  */
+    background-position: center; 
+    background-size: cover;
+    min-height: 400px;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu a{
+    color: white; 
+    font-family: sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    border: 2px solid #107ce7; 
+    background-color: #107ce7;
+    padding: 3px; 
+    height: 50px;
+    display: flex;
+    justify-content: center; /* Horizontal */
+    align-items: center; /* Vertical */ 
+    border-radius:5px;
+}
+
+.item-menu {
+    display:flex;
+    justify-content: space-between; 
+    width: 100%;
+    margin-bottom:40px;
+    align-items: center;
+}
+
+
+.firstcall{
+    color:white;
+    text-decoration: none;
+    font-family:sans-serif;
+    border:1px solid #107ce7; 
+    padding: 20px 8px; 
+    text-align:center;
+    background-color: #107ce7;
+    border-color: #107ce7;
+    border-radius:5px;
+}
+
+.endcall{
+    color:white;
+    text-decoration: none;
+    font-family:sans-serif;
+    border:1px solid #107ce7; 
+    padding: 20px 8px; 
+    text-align:center;
+    background-color: #107ce7;
+    border-color: #107ce7;
+    border-radius:5px;
+}
+
+
+.menu h3 {
+    font-family: sans-serif; 
+    color:#107ce7;     
+}
+
