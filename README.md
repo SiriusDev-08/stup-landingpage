@@ -14,7 +14,7 @@ O projeto foi um protótipo de landing page para o lançamento da StartUp e seu 
 
 ---
 
-![Untitled](README%20MD%201e05059e449a4b14912306debb0f793a/Untitled.png)
+![Layout da página](README%20MD%201e05059e449a4b14912306debb0f793a/Untitled.png)
 
 Interface no estágio atual de desenvolvimento. 
 
@@ -44,9 +44,6 @@ Antes de começar será necessário instalar no computador as seguintes ferramen
 
 Primeiramente, clone este repositório utilizando:
 
-```bash
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
-```
 
 ```powershell
 git clone https://github.com/SiriusDev-08/stup-landingpage.git
