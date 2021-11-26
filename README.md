@@ -85,7 +85,7 @@ para assim,  acessar o servidor.
 
 Idealizado e desenvolvido por Márcio Gomes para a UpHouse StartUp. 
 
-Agradecimentos à colega Letícia Castro por ideias no visual da landing page e ao amigo Daniel Tostes pelo auxílio na estilização. 
+Agradecimentos à colega Letícia Castro por ideias no visual da landing page, ao amigo Daniel Tostes pelo auxílio na estilização e por fim, uma grata menção a Willian Praciano, sem o qual vocês não estariam vendo esse projeto por aqui :D 
 
 ## ⚖️ Licença.
 
