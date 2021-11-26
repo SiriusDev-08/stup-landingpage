@@ -16,19 +16,11 @@ export function App() {
               </div>
               <div classsName="call"> 
                 <h2 className="firstcall"> Sua nova solução em gestão de obras: simples, acessível, dinâmico. </h2>
-                <p> Insira seu melhor email... </p>
+                <h2 className="email"> Insira seu melhor email... </h2>
                 <h2 className="endcall"> UpHouse, elevando o padrão da sua obra. </h2>
               </div>
-        
-      
-
           </div>
-
-
         </div>
-
-
-
       </div>
     </div>
   );

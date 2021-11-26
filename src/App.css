@@ -64,6 +64,18 @@ body {
     border-radius:5px;
 }
 
+.email{
+    color:#107ce7; 
+    text-decoration: none;
+    font-family:sans-serif;
+    border:1px solid #107ce7; 
+    padding: 20px 8px; 
+    text-align:center;
+    background-color: white;
+    border-color: #107ce7;
+    border-radius:5px;
+}
+
 .endcall{
     color:white;
     text-decoration: none;
